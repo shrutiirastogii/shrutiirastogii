@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Shruti Rastogi
 
-<!--
-**shrutiirastogii/shrutiirastogii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Engineer specializing in React.js, TypeScript, and AR/VR applications.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- 🎮 AR applications for precision agriculture
+- 🧠 Reinforcement Learning for smart manufacturing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m passionate about:
+- Building performant, secure web experiences
+- Real-time data visualization
+- Accessible UIs
+
+📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/shruti-rastogii)
+- [Email](mailto:shruti.rastogi2501@gmail.com)
+
