@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Web app called Fun and Stuff, which is a set of interactive mini games.<br>👯 I’m looking to collaborate on full stack and frontend projects<br>🤝 I’m looking for help with learning more about software development<br>🌱 I’m currently learning Next.js, Terraform (IaC)<br>💬 Ask me about React.js, React Native or TypeScript<br>⚡ Fun fact: German has a literal phrase for stubbornness: "Es geht ums Prinzip", which translates to it's all about the principals.
+🔭 I’m currently working on a Web app called Zahlen, Bitte!, which is a web application that visualizes data of Germany in a fun way.<br>👯 I’m looking to collaborate on full stack and frontend projects<br>🤝 I’m looking for help with learning more about software development<br>🌱 I’m currently learning Terraform (IaC)<br>💬 Ask me about React.js, React Native or TypeScript<br>⚡ Fun fact: German has a literal phrase for stubbornness: "Es geht ums Prinzip", which translates to it's all about the principals.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=shrutiirastogii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
